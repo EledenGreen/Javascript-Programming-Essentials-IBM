@@ -1,0 +1,40 @@
+{
+  "news": [
+    {
+      "title": "Global Markets React to Economic Data",
+      "author": "Jane Doe",
+      "publishedAt": "2024-10-02",
+      "source": "Reuters",
+      "content": "Global markets are reacting to the latest economic data, which shows a slowdown in manufacturing across major economies...",
+      "url": "https://www.reuters.com/article/global-markets-economy",
+      "category": "Economy"
+    },
+    {
+      "title": "Tech Giants Unveil New AI Innovations",
+      "author": "John Smith",
+      "publishedAt": "2024-10-01",
+      "source": "TechCrunch",
+      "content": "Major tech companies have announced groundbreaking advancements in artificial intelligence at the annual AI Summit...",
+      "url": "https://www.techcrunch.com/article/ai-summit-2024",
+      "category": "Technology"
+    },
+    {
+      "title": "Climate Change Summit Highlights Urgent Action",
+      "author": "Emily Johnson",
+      "publishedAt": "2024-09-30",
+      "source": "BBC News",
+      "content": "World leaders gathered at the Climate Change Summit to discuss urgent actions to address global warming and its impacts...",
+      "url": "https://www.bbc.com/news/climate-change-summit",
+      "category": "Environment"
+    },
+    {
+      "title": "Olympic Games 2024: Countdown Begins",
+      "author": "Carlos Rodriguez",
+      "publishedAt": "2024-10-02",
+      "source": "ESPN",
+      "content": "With less than a year until the Olympic Games 2024, preparations are in full swing. Athletes are gearing up for qualifying rounds...",
+      "url": "https://www.espn.com/olympics-2024",
+      "category": "Sports"
+    }
+  ]
+}
